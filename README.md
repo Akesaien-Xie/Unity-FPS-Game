@@ -50,13 +50,13 @@ Final Boss Battle
 
 A close-range enemy encounter demonstrating combat, player health and enemy navigation.
 
-![Enemy Encounter](screenshots/enemy-encounter.png)
+![Enemy Encounter](screenshots/gameplay-graveyard.png)
 
 ### Graveyard Combat
 
 A ranged combat section featuring a different weapon and environment.
 
-![Graveyard Combat](screenshots/gameplay-graveyard.png)
+![Graveyard Combat](screenshots/enemy-encounter.png)
 
 ### Wave Combat Arena
 
